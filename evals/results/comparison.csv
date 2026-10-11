@@ -1,0 +1,21 @@
+request_id,architecture,passed,public_minimum_pass,recommendation_correct,grounded,human_review_correct,live_success,agent_stages,recommendation,latency_ms,llm_calls,tool_calls,input_tokens,output_tokens,estimated_cost_inr,failures,run_id
+REQ-1001,single,True,True,True,True,True,True,1,Review existing option,6557.2,2,4,3792,264,0.197161,,969a5865-5789-4d50-b132-2f0231f6ac2a
+REQ-1001,staged,True,True,True,True,True,True,2,Review existing option,8659.94,3,4,6165,463,0.326039,,f8f455ea-9231-4674-ab6b-f8181f12b370
+REQ-1002,staged,True,True,True,True,True,True,2,Requires specialist review,8560.21,3,4,6414,462,0.336003,,e9f704dc-3f8e-49de-96fd-cecda4353e44
+REQ-1002,single,True,True,True,True,True,True,1,Requires specialist review,5728.7,2,4,3941,256,0.201919,,6e853e84-c61b-4255-baae-cf02263e6f77
+REQ-1003,single,True,True,True,True,True,True,1,Requires specialist review,5586.98,2,4,3858,263,0.199682,,018a5839-1a9e-4150-ac08-c1642e1001b3
+REQ-1003,staged,True,True,True,True,True,True,2,Requires specialist review,8611.04,3,4,6278,459,0.329984,,738bdbcf-24e2-4c71-90fa-2bc5056a5fe8
+REQ-1005,staged,True,True,True,True,True,True,2,Requires specialist review,8414.05,3,4,6015,430,0.314571,,b50e9254-3b8e-47c3-9e01-329d257a1594
+REQ-1005,single,True,True,True,True,True,True,1,Requires specialist review,6106.11,2,4,3749,241,0.191671,,f999b257-c413-4849-a2c4-a8310f316eda
+REQ-1006,single,True,True,True,True,True,True,1,Needs clarification,4814.67,2,4,3885,216,0.193135,,2272031f-d647-418a-a796-60e1e1b356ac
+REQ-1006,staged,True,True,True,True,True,True,2,Needs clarification,11005.57,4,4,9970,519,0.489892,,05afb315-4eb9-4160-9657-370b03cfe0de
+REQ-1009,staged,True,True,True,True,True,True,2,Requires specialist review,8370.47,3,4,5848,399,0.302736,,aaff2bb5-a11b-4e47-bbee-0b04299f6506
+REQ-1009,single,True,True,True,True,True,True,1,Requires specialist review,6077.42,2,4,3666,250,0.189759,,6cc09b3f-bc64-4af4-87ae-8e6be4526244
+REQ-1004,single,True,True,True,True,True,True,1,Requires specialist review,6795.34,2,4,3920,261,0.201878,,7e0ac4f9-0ad1-4504-9d3c-221d06fd1adb
+REQ-1004,staged,True,True,True,True,True,True,2,Requires specialist review,8168.07,3,4,6373,455,0.333197,,700ed423-d0c1-429f-980b-81ea8e1bd08a
+REQ-1007,staged,True,True,True,True,True,True,2,Requires specialist review,8727.76,3,4,6390,453,0.333563,,1996208a-4310-4a68-8d03-e3d4415b2b32
+REQ-1007,single,True,True,True,True,True,True,1,Requires specialist review,5333.58,2,4,3922,230,0.196917,,4cb5d06a-1be4-487e-b336-aa7eee074cb8
+REQ-1008,single,True,True,True,True,True,True,1,Review existing option,5272.37,2,4,3814,241,0.194314,,92341ff2-9a5c-4e6e-a9a5-1a8d217c9c50
+REQ-1008,staged,True,True,True,True,True,True,2,Review existing option,8112.26,3,4,6170,415,0.318434,,7988a756-89d7-4f49-a0a9-51ea1d7f9b52
+REQ-1010,staged,True,True,True,True,True,True,2,Ready for required business approvals,7923.65,3,4,6124,433,0.319492,,c353b626-f46f-4fe7-8098-8b1f9cb4a745
+REQ-1010,single,True,True,True,True,True,True,1,Ready for required business approvals,5360.34,2,4,3784,248,0.194233,,f1d12fdd-42eb-463b-9a07-d96dab457fd0

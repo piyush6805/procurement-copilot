@@ -1,0 +1,32 @@
+{
+  "model": "openai/gpt-4.1-mini",
+  "repeats": 1,
+  "coverage": 10,
+  "ledger_total_inr": 15.476020965297902,
+  "architectures": {
+    "single": {
+      "cases": 10,
+      "passed": 10,
+      "live_success": 10,
+      "recommendation_correct": 10,
+      "grounded": 10,
+      "mean_latency_ms": 5763.271,
+      "median_latency_ms": 5657.84,
+      "mean_llm_calls": 2,
+      "mean_tool_calls": 4,
+      "total_cost_inr": 1.960669
+    },
+    "staged": {
+      "cases": 10,
+      "passed": 10,
+      "live_success": 10,
+      "recommendation_correct": 10,
+      "grounded": 10,
+      "mean_latency_ms": 8655.302,
+      "median_latency_ms": 8487.13,
+      "mean_llm_calls": 3.1,
+      "mean_tool_calls": 4,
+      "total_cost_inr": 3.403911
+    }
+  }
+}
